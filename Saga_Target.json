@@ -1,0 +1,87 @@
+{
+  "looting": {
+    "items": [
+
+    ],
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "lureDelay": 250,
+      "lureMin": 1,
+      "maxDistance": 10,
+      "anchorRange": 3,
+      "lureCount": 1,
+      "avoidAttacks": false,
+      "lureMax": 3,
+      "dynamicLureDelay": false,
+      "priority": 1,
+      "keepDistanceRange": 1,
+      "keepDistance": false,
+      "dynamicLure": false,
+      "chase": true,
+      "lureCavebot": false,
+      "dontLoot": false,
+      "diamondArrows": false,
+      "lure": false,
+      "anchor": false,
+      "faceMonster": false,
+      "danger": 1,
+      "name": "*boss*",
+      "regex": "^.*boss.*$"
+    },
+    {
+      "lureDelay": 250,
+      "lureMin": 1,
+      "maxDistance": 10,
+      "anchorRange": 3,
+      "lureCount": 1,
+      "avoidAttacks": false,
+      "lureMax": 3,
+      "dynamicLureDelay": false,
+      "priority": 10,
+      "danger": 1,
+      "keepDistance": false,
+      "name": "Warlock Event",
+      "keepDistanceRange": 1,
+      "lureCavebot": false,
+      "dontLoot": false,
+      "diamondArrows": false,
+      "lure": false,
+      "anchor": false,
+      "faceMonster": false,
+      "chase": false,
+      "dynamicLure": false,
+      "regex": "^warlock event$"
+    },
+    {
+      "lureDelay": 250,
+      "lureMin": 1,
+      "maxDistance": 10,
+      "anchorRange": 3,
+      "lureCount": 1,
+      "avoidAttacks": false,
+      "lureMax": 3,
+      "dynamicLureDelay": false,
+      "priority": 10,
+      "danger": 1,
+      "keepDistance": false,
+      "name": "Warlock",
+      "keepDistanceRange": 1,
+      "lureCavebot": false,
+      "dontLoot": false,
+      "diamondArrows": false,
+      "lure": false,
+      "anchor": false,
+      "faceMonster": false,
+      "chase": false,
+      "dynamicLure": false,
+      "regex": "^warlock$"
+    }
+  ]
+}

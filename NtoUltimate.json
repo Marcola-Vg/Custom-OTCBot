@@ -1,0 +1,42 @@
+{
+  "keySpells": [
+
+  ],
+  "guild": false,
+  "enemy": false,
+  "target": false,
+  "enabled": false,
+  "comboSpells": [
+    {
+      "enabled": true,
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "distance": 6,
+      "orangeSpell": "kaiwan no hiya",
+      "cooldown": 1052,
+      "enableTimeSpell": true,
+      "index": 1,
+      "cooldownSpells": 1111752,
+      "spellCast": "kaiwan no hiya"
+    },
+    {
+      "enabled": true,
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "distance": 6,
+      "orangeSpell": "chibaku tensei",
+      "index": 2,
+      "cooldownSpells": 1112544,
+      "enableTimeSpell": true,
+      "cooldown": 3577,
+      "spellCast": "chibaku tensei"
+    }
+  ],
+  "fugaSpells": [
+
+  ]
+}

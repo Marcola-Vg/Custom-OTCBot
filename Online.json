@@ -1,0 +1,105 @@
+{
+  "keySpells": [
+
+  ],
+  "fugaSpells": [
+
+  ],
+  "comboSpells": [
+    {
+      "enableTimeSpell": true,
+      "orangeSpell": "biju ball",
+      "spellCast": "biju ball",
+      "index": 1,
+      "distance": 7,
+      "enabled": true,
+      "cooldown": 5000,
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      }
+    },
+    {
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "enableTimeSpell": true,
+      "enabled": true,
+      "cooldown": 2000,
+      "orangeSpell": "tenrei tenseigan burst chakra mode",
+      "distance": 7,
+      "index": 2,
+      "spellCast": "tenrei tenseigan burst chakra mode"
+    },
+    {
+      "enableTimeSpell": true,
+      "orangeSpell": "tenrin korei baku",
+      "cooldownSpells": 1167015,
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "index": 3,
+      "spellCast": "tenrin korei baku",
+      "enabled": true,
+      "distance": 7,
+      "cooldown": 4736
+    },
+    {
+      "enableTimeSpell": true,
+      "orangeSpell": "tenrai korin",
+      "cooldownSpells": 1167440,
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "index": 4,
+      "spellCast": "tenrai korin",
+      "enabled": true,
+      "distance": 7,
+      "cooldown": 3337
+    },
+    {
+      "enableTimeSpell": true,
+      "orangeSpell": "tenseigan hikari no bakuha",
+      "cooldownSpells": 1166895,
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "index": 5,
+      "spellCast": "tenseigan hikari no bakuha",
+      "enabled": true,
+      "distance": 7,
+      "cooldown": 3699
+    },
+    {
+      "enableTimeSpell": true,
+      "orangeSpell": "sorei ryushi bakudan",
+      "cooldownSpells": 1168692,
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "index": 6,
+      "spellCast": "sorei ryushi bakudan",
+      "enabled": true,
+      "distance": 7,
+      "cooldown": 3676
+    },
+    {
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "enableTimeSpell": true,
+      "enabled": true,
+      "cooldown": 1364,
+      "orangeSpell": "tenseigan sogyoku",
+      "distance": 7,
+      "index": 7,
+      "spellCast": "tenseigan sogyoku"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "keySpells": [
+
+  ],
+  "fugaSpells": [
+
+  ],
+  "comboSpells": [
+    {
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "orangeSpell": "biju ball",
+      "spellCast": "biju ball",
+      "cooldown": 5007,
+      "enableTimeSpell": true,
+      "enabled": true,
+      "distance": 7,
+      "index": 1
+    },
+    {
+      "enableTimeSpell": true,
+      "orangeSpell": "tenrei tenseigan burst chakra mode",
+      "spellCast": "tenrei tenseigan burst chakra mode",
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "cooldown": 2000,
+      "cooldownSpells": 2706161,
+      "enabled": true,
+      "distance": 7,
+      "index": 2
+    },
+    {
+      "enableTimeSpell": true,
+      "orangeSpell": "getsurei ryushi kaiho",
+      "spellCast": "getsurei ryushi kaiho",
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "cooldown": 4000,
+      "cooldownSpells": 2748475,
+      "enabled": true,
+      "distance": 7,
+      "index": 3
+    },
+    {
+      "enableTimeSpell": true,
+      "orangeSpell": "tenrin korei baku",
+      "spellCast": "tenrin korei baku",
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "cooldown": 4000,
+      "cooldownSpells": 2747584,
+      "enabled": true,
+      "distance": 7,
+      "index": 4
+    },
+    {
+      "enableTimeSpell": true,
+      "orangeSpell": "tenrai korin",
+      "spellCast": "tenrai korin",
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "cooldown": 3500,
+      "cooldownSpells": 2744341,
+      "enabled": true,
+      "distance": 7,
+      "index": 5
+    },
+    {
+      "enableTimeSpell": true,
+      "orangeSpell": "tenseigan hikari no bakuha",
+      "spellCast": "tenseigan hikari no bakuha",
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "cooldown": 3000,
+      "cooldownSpells": 2744755,
+      "enabled": true,
+      "distance": 7,
+      "index": 6
+    },
+    {
+      "enableTimeSpell": true,
+      "orangeSpell": "sorei ryushi bakudan",
+      "spellCast": "sorei ryushi bakudan",
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "cooldown": 3500,
+      "cooldownSpells": 2746165,
+      "enabled": true,
+      "distance": 7,
+      "index": 7
+    },
+    {
+      "enableTimeSpell": true,
+      "orangeSpell": "tenseigan sogyoku",
+      "spellCast": "tenseigan sogyoku",
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "cooldown": 2000,
+      "cooldownSpells": 2725809,
+      "enabled": true,
+      "distance": 7,
+      "index": 8
+    }
+  ]
+}

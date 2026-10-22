@@ -1,0 +1,1261 @@
+{
+  "leaders": [
+    "Lider 1",
+    "Lider 2",
+    "Lider 3"
+  ],
+  "targetpl3": {
+    "max": 29,
+    "title": "HP%",
+    "on": true,
+    "min": 0,
+    "text": "Dai Tenseigan no Banshou"
+  },
+  "pp": "Position da tela x",
+  "autoSummonEnabled": true,
+  "autoHealthItemPanel2": {
+    "max": 19,
+    "item": 10712,
+    "min": 0,
+    "enabled": false
+  },
+  "botIconPositions": {
+    "iconFollowAttackScript": {
+      "y": 390,
+      "x": 185
+    }
+  },
+  "ES_Spells": [
+    {
+      "spell": "kawarimi",
+      "enabled": true,
+      "active": "4",
+      "cooldown": "35"
+    },
+    {
+      "spell": "mode bijuu",
+      "enabled": true,
+      "active": "30",
+      "cooldown": "180"
+    },
+    {
+      "spell": "dai izanagi",
+      "enabled": true,
+      "active": "60",
+      "cooldown": "120"
+    },
+    {
+      "spell": "izanagi",
+      "enabled": true,
+      "active": "10",
+      "cooldown": "60"
+    }
+  ],
+  "scrollBars1": {
+    "macroDelay": 50
+  },
+  "nuizod": "T",
+  "selectedSensePlayer": "Susanoo Ootsutsuki",
+  "targetpl5": {
+    "max": 20,
+    "title": "HP%",
+    "on": false,
+    "min": 0,
+    "text": ""
+  },
+  "comboPanelPos": {
+    "y": 100,
+    "x": 100
+  },
+  "medicine1": "25",
+  "ES": false,
+  "trapPercent": 96,
+  "Combo4Text": "magia 5",
+  "targetpl4": {
+    "max": 80,
+    "title": "HP%",
+    "on": false,
+    "min": 0,
+    "text": ""
+  },
+  "clearing": false,
+  "_icons": {
+    "4": {
+      "y": 0.25,
+      "x": 0.01,
+      "enabled": false
+    },
+    "Nuibari": {
+      "y": 0.065789473684211,
+      "enabled": false,
+      "x": 0.72543741588156
+    },
+    "autoStairs": {
+      "y": 0.25814863102999,
+      "enabled": false,
+      "x": 0.00067294751009421
+    },
+    "iconCave": {
+      "y": 0.066666666666667,
+      "x": 0.57309486780715
+    },
+    "Buff": {
+      "y": 0.05,
+      "x": 0.01,
+      "enabled": true
+    },
+    "iconFollowOnlyScript": {
+      "y": 0.54518518518519,
+      "x": 0.14968652037618
+    },
+    "iconXpBoostPersistent": {
+      "y": 0.070149253731343,
+      "x": 0.47915027537372
+    },
+    "iconXpBoostAuto": {
+      "y": 0.23432835820896,
+      "x": 0.47521636506688
+    },
+    "iconManaPotionOnly": {
+      "y": 0.74074074074074,
+      "x": 0.14870180959874
+    },
+    "cI": {
+      "y": 0.05,
+      "x": 0.01
+    },
+    "8": {
+      "y": 0.29924812030075,
+      "x": 0.15501519756839,
+      "enabled": false
+    },
+    "iconTarget": {
+      "y": 0.066666666666667,
+      "x": 0.6244167962675
+    },
+    "iconTreinoDanceScript": {
+      "y": 0.81777777777778,
+      "x": 0.15481832543444
+    },
+    "iconFollowAttackScript": {
+      "y": 0.60888888888889,
+      "x": 0.14849921011058
+    },
+    "iconComboMacroScript": {
+      "y": 0.066666666666667,
+      "x": 0.33855799373041
+    },
+    "tI": {
+      "y": 0.25,
+      "x": 0.01
+    },
+    "iconComboAreaPanel": {
+      "y": 0.066666666666667,
+      "x": 0.4051724137931
+    },
+    "iconBugMap": {
+      "y": 0.14962962962963,
+      "x": 0.14852255054432
+    },
+    "iconAutoPotionsScript": {
+      "y": 0.22518518518519,
+      "x": 0.22985781990521
+    },
+    "PotDeath": {
+      "y": 0.16578947368421,
+      "enabled": false,
+      "x": 0.86137281292059
+    },
+    "iconAntiStuck": {
+      "y": 0.21777777777778,
+      "x": 0.14968652037618
+    },
+    "autopill": {
+      "y": 0.067105263157895,
+      "enabled": false,
+      "x": 0.85935397039031
+    },
+    "Chaser": {
+      "y": 0.065789473684211,
+      "enabled": false,
+      "x": 0.81561238223419
+    },
+    "iconSelarBijuu": {
+      "y": 0.29037037037037,
+      "x": 0.14890282131661
+    },
+    "iconTreinoOnlyScript": {
+      "y": 0.80592592592593,
+      "x": 0.14811912225705
+    },
+    "iconXpBoostAutoOnly": {
+      "y": 0.067164179104478,
+      "x": 0.48151062155783
+    },
+    "iconPvP": {
+      "y": 0.066666666666667,
+      "x": 0.4945567651633
+    },
+    "jumpIcon": {
+      "y": 0.37293233082707,
+      "enabled": false,
+      "x": 0.15881458966565
+    },
+    "iconCavebot": {
+      "y": 0.2562962962963,
+      "x": 0.4504293520687
+    },
+    "iconLifePotionOnly": {
+      "y": 0.67259259259259,
+      "x": 0.14870180959874
+    },
+    "iconAutoKai": {
+      "y": 0.06962962962963,
+      "x": 0.21617418351477
+    },
+    "Combo": {
+      "y": 0.05,
+      "x": 0.01,
+      "enabled": false
+    },
+    "iconAutoChase": {
+      "y": 0.068148148148148,
+      "x": 0.67868338557994
+    },
+    "iconBuffsFullPanel": {
+      "y": 0.14666666666667,
+      "x": 0.2115987460815
+    },
+    "iconAutoSummon": {
+      "y": 0.068148148148148,
+      "x": 0.15047021943574
+    }
+  },
+  "npcName_alt": "Caronte",
+  "Combo2Text": "magia 3",
+  "npcName": "Mabui",
+  "sensePositions": {
+    "Direita": {
+      "y": 353,
+      "x": 952
+    },
+    "Norte": {
+      "y": 186,
+      "x": 746
+    },
+    "Esquerda": {
+      "y": 348,
+      "x": 532
+    },
+    "Sul": {
+      "y": 547,
+      "x": 748
+    }
+  },
+  "healing3": {
+    "max": 29,
+    "title": "HP%",
+    "on": true,
+    "min": 0,
+    "text": "Kawarimi no jutsu defensive"
+  },
+  "buffsFullEnabled": true,
+  "raitonHitsVida": 98,
+  "kaiX": 924,
+  "autoManaPotion": {
+    "minMana": "20",
+    "on": true,
+    "potionId": "11506"
+  },
+  "ES_Players": [
+
+  ],
+  "creatureList": "M U D I N H O\nKarasu\nKaton Hearth\nRaiton Hearth\nFuuton Hearth\nsuiton Hearth\nGedou Mazou\nWiser Seishun\nKame\nDragull\nEdo Anbu\nDragull\nAkahigi\nShukaku\nManda\nKatsuyu\nEletric bars\nEletriic bars\nKugutsu\nShokushu\nthe Gedou Mazou\nMarco\nEdo Madara\nRoyale Noir\nDeft\nYonbi\nKirito\nS U R D I N H O\nAnbu NE\nLyso Form\nNego Drama\nDoki\nAlecrim Dourado\nZeref\nSephiroth\nGallapagoz\nSerifox\nNight Blade\nMoon Creature\n",
+  "buff2": "Kekkei Genkai",
+  "buffzConfig": "kekkei genkai, kamui protect",
+  "pillId": 11821,
+  "attackingFunctions": {
+    "player": "getAttackingCreature",
+    "monster": "getAttackingCreature"
+  },
+  "buff3": "",
+  "bugMapCheck": true,
+  "stackConfig": "",
+  "xpBoostTimer": {
+    "endTime": 1792657955,
+    "durationMinutes": 30,
+    "on": false
+  },
+  "FiltroSkull": false,
+  "pc": "Position da tela y",
+  "autoAntiStuckEnabled": false,
+  "iconScripts": {
+    "showInfos": false,
+    "fugaMacro": false,
+    "comboMacro": true,
+    "keyMacro": false
+  },
+  "_configs": {
+    "cavebot_configs": {
+      "enabled": false,
+      "selected": "Stone_Rhyno"
+    },
+    "targetbot_configs": {
+      "selected": "All",
+      "enabled": true
+    }
+  },
+  "autoLifePotion": {
+    "on": true,
+    "minHealth": "55",
+    "potionId": "11505"
+  },
+  "summonMax": 4,
+  "senseEnabled": false,
+  "senseNames": {
+    "targetName": "Chapado Di Oregano",
+    "lastName": "ina"
+  },
+  "puloTrapVida": 40,
+  "autoKaiParado": false,
+  "travelPanelPosReady": true,
+  "FiltroNpcs": true,
+  "keySenseX": "T",
+  "autoTravelNpcsList": [
+    "Caronte",
+    "Mabui"
+  ],
+  "scrollBars": [
+
+  ],
+  "_enemy": [
+
+  ],
+  "comboSpells": [
+
+  ],
+  "kaiZ": 6,
+  "autoHealthItemPanel1": {
+    "max": 26,
+    "item": 11505,
+    "min": 45,
+    "enabled": false
+  },
+  "_macros": {
+    "": false,
+    "Nuibari": false,
+    "New Pot 90%": false,
+    "TRAP %": true,
+    "Buff": true,
+    "RAITON HITS %": true,
+    "Abrir proxima Bag": false,
+    "Filtrar Mob": true,
+    "Advanced Follow": false,
+    "Spell Time": false,
+    "Combo": false,
+    "battle on bot": true,
+    "Bugmap": true,
+    "Filtrar Guild": true,
+    "Combo Full DPS": false,
+    "Super Follow": false,
+    "Atacar Seguindo": true,
+    "Auto-Escadas": false,
+    "Jutsu AREA": false,
+    "Auto Open Doors When Following": true,
+    "Battle Bot": false,
+    "Stamina": true,
+    "No attack friend": false,
+    "Chakra Defense": false,
+    "DEATH": true,
+    "Nome da Magia": false,
+    "Jutsu Selar Bijuu": false,
+    "Jump Marcacao": false,
+    "buff anti spam": false,
+    "Follow Attack": false,
+    "Abrir Bag Principal": true,
+    "Kakuzu Summon": false,
+    "Anti-Stuck CaveBot": true,
+    "Jump": false,
+    "Stack items": false,
+    "Auto Jump": false,
+    "battle Bot": false,
+    "Automatic Jump": false,
+    "NUIBARI": false,
+    "STACK %": true,
+    "NO Attack Friend": true,
+    "Auto-Pill": false,
+    "desviar Wave 1131": false,
+    "Sense Target": false,
+    "PK Time Auto": false,
+    "Old Pot 80%": true,
+    "Cooldown Checker": false,
+    "Follow Infinito": false,
+    "Sense": false,
+    "Auto Kai Parado": true,
+    "Auto Follow Movement": true,
+    "Dance": false,
+    "Usar Item 10min": false,
+    "PULO TRAP %": true,
+    "DPS Tracker": false,
+    "Follow + Attack": true,
+    "Auto Speed": false,
+    "Summon's": false,
+    "ComboArea": false,
+    "Auto Open Doors": true,
+    "teste": true,
+    "Correr": false,
+    "PK Time Countdown": false,
+    "MUNDO %": true,
+    "Buff's Full": true,
+    "Bug-Map": true,
+    "desviar Wave": true,
+    "virar target": true,
+    "Bug Map": true,
+    "Follow": false,
+    "Drunk Effect %": false,
+    "desviar Wave Original": true,
+    "Old Pot 50%": false,
+    "Follow Target": false,
+    "Chakra Feet": false,
+    "Auto Potion": true,
+    "Old Pot 90%": false,
+    "Auto Mana Potion": false,
+    "Auto Kai Controle": false,
+    "Follow Player": true,
+    "Magia % HP": false,
+    "Buffs": true,
+    "Potion DeathSkill": false,
+    "Auto Beam by Zodiaco": false
+  },
+  "healPercent": 50,
+  "FiltroParty": true,
+  "chaser": "G",
+  "buffText": "Funyu no Jutsu",
+  "danceEnabled": false,
+  "kaiParadoDesde": 15290120,
+  "puloTrapNome": "Bunshin sex",
+  "areaCombo2": "",
+  "excludeIds": [
+    {
+      "count": 1,
+      "id": 12099
+    },
+    {
+      "count": 1,
+      "id": 17393
+    }
+  ],
+  "buff": "Funyu no Jutsu",
+  "autoManaItemPanel1": {
+    "max": 25,
+    "item": 11506,
+    "min": 0,
+    "enabled": false
+  },
+  "turnbeam": "G",
+  "ingame_hotkeys": "macro(100, 'virar target', function()\n if not g_game.isAttacking() then return end\n local tt = g_game.getAttackingCreature()\n local tx = tt:getPosition().x\n local ty = tt:getPosition().y\n local dir = player:getDirection()\n local tdx = math.abs(tx-pos().x)\n local tdy = math.abs(ty-pos().y)\n if (tdy >= 2 and tdx >= 2) or tdx > 7 or tdy > 7 then return end \n if tdy >= tdx then\n  if ty > pos().y then\n   if dir ~= 2 then\n    return turn(2)\n   end\n  else\n   if dir ~= 0 then\n    return turn(0)\n   end\n  end\n else\n  if tx > pos().x then\n   if dir ~= 1 then\n    return turn(1)\n   end\n  else\n   if dir ~= 3 then\n    return turn(3)\n   end\n  end\n end\nend)\n\n------------------\n\nmacro(200, \"desviar Wave Original\", function()\n  local effectId = 750\n  local playerPos = pos()\n\n  -- check if the player is on a tile with the effect 1804\n  local playerTile = g_map.getTile(playerPos)\n  if hasEffect(playerTile, effectId) then\n    effect = 1\n  else\n    effect = 0\n  end\n\n  -- search for the nearest tile without the effect 1804\n  local targetPos = findNearestTileWithoutEffect(effectId, playerPos, 5)\n  if not targetPos then\n    print(\"Could not find a target tile\")\n    return\n  end\n\n  -- move to the target tile if the player is standing on a tile with the effect\n  if effect == 1 then\n    autoWalk(targetPos, 50, { ignoreNonPathable = true, precision = 1 })\n    delay(1000)\n  end\n\n  -- check if the player is on a tile with the effect 1804 after moving\n  local newPlayerTile = g_map.getTile(pos())\n  if hasEffect(newPlayerTile, effectId) then\n    print(\"Player is on a tile with effect 1804 after moving\")\n  end\nend)\n\nfunction hasEffect(tile, effect)\n  for _, fx in ipairs(tile:getEffects()) do\n    if fx:getId() == effect then\n      return true\n    end\n  end\n  return false\nend\n\nfunction findNearestTileWithoutEffect(effectId, centerPos, range)\n  local minDist, targetPos = nil, nil\n  for x = -range, range do\n    for y = -range, range do\n      local pos = {x = centerPos.x + x, y = centerPos.y + y, z = centerPos.z}\n      local dist = math.abs(x) + math.abs(y)\n      if dist > 0 and (not minDist or dist < minDist) then\n        local tile = g_map.getTile(pos)\n        if tile and not hasEffect(tile, effectId) and g_map.isWalkable(pos) then\n          -- tile doesn't have the effect 1804 and is walkable\n          minDist = dist\n          targetPos = pos\n        end\n      end\n    end\n  end\n  return targetPos\nend\n\n------------------\n\nmacro(200, \"desviar Wave\", function()\n  local effectId = 1131\n  local playerPos = pos()\n\n  local playerTile = g_map.getTile(playerPos)\n  if hasEffect(playerTile, effectId) then\n    effect = 1\n  else\n    effect = 0\n  end\n\n  local targetPos = findNearestTileWithoutEffect(effectId, playerPos, 5)\n  if not targetPos then\n    print(\"Could not find a target tile\")\n    return\n  end\n\n  if effect == 1 then\n    autoWalk(targetPos, 50, { ignoreNonPathable = true, precision = 1 })\n    delay(1000)\n  end\n\n  local newPlayerTile = g_map.getTile(pos())\n  if hasEffect(newPlayerTile, effectId) then\n    print(\"Player is on a tile with effect 1131 after moving\")\n  end\nend)\n\nfunction hasEffect(tile, effect)\n  for _, fx in ipairs(tile:getEffects()) do\n    if fx:getId() == effect then\n      return true\n    end\n  end\n  return false\nend\n\nfunction findNearestTileWithoutEffect(effectId, centerPos, range)\n  local minDist, targetPos = nil, nil\n  for x = -range, range do\n    for y = -range, range do\n      local pos = {x = centerPos.x + x, y = centerPos.y + y, z = centerPos.z}\n      local dist = math.abs(x) + math.abs(y)\n      if dist > 0 and (not minDist or dist < minDist) then\n        local tile = g_map.getTile(pos)\n        if tile and not hasEffect(tile, effectId) and g_map.isWalkable(pos) then\n          minDist = dist\n          targetPos = pos\n        end\n      end\n    end\n  end\n  return targetPos\nend\n\n\n------------------\n\n\nmacro(1000, \"Stamina\", function()\n  if stamina() <= 41*60 then\n    local player = g_game.getLocalPlayer()\n    if player then\n      useWith(11791, player)\n    end\n  end\nend)\n\n----------------------------------------------\n\nUI.Separator()\nUI.Label(\"Auto Speed\")\n\n-- cria storage\nif type(storage.autoSpell10s) ~= \"table\" then\n  storage.autoSpell10s = {\n    spell = \"exura\"\n  }\nend\n\n-- campo editável\nUI.TextEdit(storage.autoSpell10s.spell, function(widget, text)\n  storage.autoSpell10s.spell = text\nend)\n\n-- macro principal\nmacro(10000, \"Auto Speed\", function()\n  if storage.autoSpell10s.spell ~= \"\" then\n    say(storage.autoSpell10s.spell)\n  end\nend)\n\n---------------------------------------------------------\n\nUI.Separator()\n\n-- ============================================================\n-- LABEL INFORMATIVO DE SEÇÃO\n-- ============================================================\nlocal lblInfo = UI.Label(\"-- [[ FOLLOW ]] --\")\nlblInfo:setColor(\"#00e6b8\")\naddSeparator()\n\n-- ============================================================\n-- INICIALIZAÇÃO DA STORAGE E VARIÁVEIS DE SEGUIR\n-- ============================================================\nlocal followName = \"autofollow\"\nif type(storage[followName]) ~= \"table\" then\n  storage[followName] = {\n    player = \"name\",\n    followOn = false,\n    followAttackOn = false\n  }\nend\n\nlocal toFollowPos = {}\n\n-- ============================================================\n-- 1) MACRO 1: AUTO FOLLOW (NATIVO DO JOGO)\n-- ============================================================\nlocal followChange = macro(1000, function()\n  if not storage[followName].followOn then return end\n\n  local followTarget = storage[followName].player\n  if g_game.isFollowing() then\n    return\n  end\n\n  for _, followcreature in ipairs(g_map.getSpectators(pos(), false)) do\n    if (followcreature:getName() == followTarget and getDistanceBetween(pos(), followcreature:getPosition()) <= 8) then\n      g_game.follow(followcreature)\n    end\n  end\nend)\n\nfollowChange.setOn(storage[followName].followOn)\n\n-- ============================================================\n-- 2) MACRO 2: FOLLOW ATTACK (CAMINHAMENTO INTELIGENTE)\n-- ============================================================\nlocal followAttackMacro = macro(20, function()\n  if not storage[followName].followAttackOn then return end\n\n  local target = getCreatureByName(storage[followName].player)\n  if target then\n    local tpos = target:getPosition()\n    toFollowPos[tpos.z] = tpos\n  end\n\n  if player:isWalking() then\n    return\n  end\n\n  local p = toFollowPos[posz()]\n  if not p then\n    return\n  end\n\n  if autoWalk(p, 20, { ignoreNonPathable = true, precision = 1 }) then\n    delay(100)\n  end\nend)\n\nfollowAttackMacro.setOn(storage[followName].followAttackOn)\n\n-- ============================================================\n-- 3) PAINEL DE CONFIGURAÇÃO (480PX + TRANSPARÊNCIA)\n-- ============================================================\nfollowConfigUI = setupUI([[\nMainWindow\n  id: followConfigWindow\n  text: Configuraçoes de Follow\n  size: 480 340\n  draggable: true\n  moveable: true\n  opacity: 0.90\n  background-color: #0b0e14\n  border: 1 #1f293d\n  font: verdana-11px-rounded\n  padding: 16\n\n  Label\n    id: windowHeader\n    text: Painel Auto Follow & Follow Attack\n    anchors.top: parent.top\n    anchors.horizontalCenter: parent.horizontalCenter\n    margin-top: 22\n    color: #00e6b8\n    font: verdana-11px-rounded\n\n  HorizontalSeparator\n    id: topSep\n    anchors.top: windowHeader.bottom\n    anchors.left: parent.left\n    anchors.right: parent.right\n    margin-top: 8\n\n  ScrollablePanel\n    id: contentPanel\n    anchors.top: topSep.bottom\n    anchors.left: parent.left\n    anchors.right: followScrollBar.left\n    anchors.bottom: closeBtn.top\n    margin-top: 10\n    margin-bottom: 12\n    margin-right: 6\n    vertical-scrollbar: followScrollBar\n    layout:\n      type: verticalBox\n      spacing: 8\n\n  VerticalScrollBar\n    id: followScrollBar\n    anchors.top: topSep.bottom\n    anchors.bottom: closeBtn.top\n    anchors.right: parent.right\n    margin-top: 10\n    margin-bottom: 12\n    step: 20\n    pixels-scroll: true\n    opacity: 0.70\n\n  Button\n    id: closeBtn\n    text: Concluir\n    font: verdana-11px-rounded\n    color: white\n    background-color: #1a2332\n    anchors.bottom: parent.bottom\n    anchors.horizontalCenter: parent.horizontalCenter\n    width: 140\n    height: 26\n]], g_ui.getRootWidget())\n\nfollowConfigUI:hide()\n\nlocal parentPanel = followConfigUI.contentPanel\n\n-- --- COMPONENTES INTERNOS DO PAINEL ---\nlocal lblTarget = UI.Label(\"Nome do Player para Seguir:\", parentPanel)\nlblTarget:setColor(\"#00e6b8\")\n\nlocal followTE = UI.TextEdit(storage[followName].player or \"name\", function(widget, newText)\n  storage[followName].player = newText\nend, parentPanel)\n\nUI.Separator(parentPanel)\n\n-- Ativar / Desativar Follow Nativo\nUI.Label(\"Auto Follow (Nativo):\", parentPanel)\nlocal btnToggleFollow = UI.Button(storage[followName].followOn and \"Ativado [ON]\" or \"Desativado [OFF]\", function(btn)\n  storage[followName].followOn = not storage[followName].followOn\n  followChange.setOn(storage[followName].followOn)\n  btn:setText(storage[followName].followOn and \"Ativado [ON]\" or \"Desativado [OFF]\")\n  btn:setColor(storage[followName].followOn and \"green\" or \"red\")\nend, parentPanel)\nbtnToggleFollow:setColor(storage[followName].followOn and \"green\" or \"red\")\n\n-- Ativar / Desativar Follow Attack\nUI.Label(\"Follow Attack (Auto Walk):\", parentPanel)\nlocal btnToggleFollowAttack = UI.Button(storage[followName].followAttackOn and \"Ativado [ON]\" or \"Desativado [OFF]\", function(btn)\n  storage[followName].followAttackOn = not storage[followName].followAttackOn\n  followAttackMacro.setOn(storage[followName].followAttackOn)\n  btn:setText(storage[followName].followAttackOn and \"Ativado [ON]\" or \"Desativado [OFF]\")\n  btn:setColor(storage[followName].followAttackOn and \"green\" or \"red\")\nend, parentPanel)\nbtnToggleFollowAttack:setColor(storage[followName].followAttackOn and \"green\" or \"red\")\n\nfollowConfigUI.closeBtn.onClick = function()\n  followConfigUI:hide()\nend\n\n-- Botão de Abertura na Aba Lateral (User)\nlocal btnOpenFollow = UI.Button(\"Configurar Follow\", function()\n  if followConfigUI:isVisible() then\n    followConfigUI:hide()\n  else\n    followConfigUI:show()\n    followConfigUI:raise()\n    followConfigUI:focus()\n  end\nend)\nbtnOpenFollow:setColor(\"#00e6b8\")\n\n-- ============================================================\n-- 4) EVENTOS DE RASTREIO E ATUALIZAÇÃO DE POSIÇÃO/NOME\n-- ============================================================\nonPlayerPositionChange(function(newPos, oldPos)\n  if not storage[followName].followOn then return end\n\n  if g_game.isFollowing() then\n    local tfollow = g_game.getFollowingCreature()\n    if tfollow then\n      if tfollow:getName() ~= storage[followName].player then\n        followTE:setText(tfollow:getName())\n        storage[followName].player = tfollow:getName()\n      end\n    end\n  end\nend)\n\nonCreaturePositionChange(function(creature, newPos, oldPos)\n  if creature:getName() == storage[followName].player and newPos then\n    toFollowPos[newPos.z] = newPos\n  end\nend)\n\n-- ============================================================\n-- 5) ÍCONES FLUTUANTES SEPARADOS (FOLLOW & FOLLOW ATTACK)\n-- ============================================================\nstorage.botIconPositions = storage.botIconPositions or {}\n\n-- --- ÍCONE 1: FOLLOW ---\nlocal followIcon = addIcon(\"iconFollowOnlyScript\", {\n  text = \"Follow\",\n  switchable = false,\n  moveable = true\n}, function()\n  storage[followName].followOn = not storage[followName].followOn\n  followChange.setOn(storage[followName].followOn)\n\n  btnToggleFollow:setText(storage[followName].followOn and \"Ativado [ON]\" or \"Desativado [OFF]\")\n  btnToggleFollow:setColor(storage[followName].followOn and \"green\" or \"red\")\nend)\n\nfollowIcon:setSize({width = 90, height = 40})\nfollowIcon.text:setFont(\"verdana-11px-rounded\")\nfollowIcon:setOpacity(1.0)\n\nfollowIcon.onMousePress = function(widget, mousePos, button)\n  return true\nend\n\nfollowIcon.onMouseRelease = function(widget, mousePos, button)\n  if modules.corelib.g_keyboard.isCtrlPressed() then\n    storage.botIconPositions.iconFollowOnlyScript = {\n      x = widget:getX(),\n      y = widget:getY()\n    }\n  end\n  return true\nend\n\n-- --- ÍCONE 2: FOLLOW ATTACK ---\nlocal followAttackIcon = addIcon(\"iconFollowAttackScript\", {\n  text = \"Follow Attack\",\n  switchable = false,\n  moveable = true\n}, function()\n  storage[followName].followAttackOn = not storage[followName].followAttackOn\n  followAttackMacro.setOn(storage[followName].followAttackOn)\n\n  btnToggleFollowAttack:setText(storage[followName].followAttackOn and \"Ativado [ON]\" or \"Desativado [OFF]\")\n  btnToggleFollowAttack:setColor(storage[followName].followAttackOn and \"green\" or \"red\")\nend)\n\nfollowAttackIcon:setSize({width = 100, height = 40})\nfollowAttackIcon.text:setFont(\"verdana-11px-rounded\")\nfollowAttackIcon:setOpacity(1.0)\n\nfollowAttackIcon.onMousePress = function(widget, mousePos, button)\n  return true\nend\n\nfollowAttackIcon.onMouseRelease = function(widget, mousePos, button)\n  if modules.corelib.g_keyboard.isCtrlPressed() then\n    storage.botIconPositions.iconFollowAttackScript = {\n      x = widget:getX(),\n      y = widget:getY()\n    }\n  end\n  return true\nend\n\n-- Posicionamento inicial/restauração dos ícones\nschedule(10, function()\n  local savedFollow = storage.botIconPositions.iconFollowOnlyScript\n  if savedFollow then\n    followIcon:setPosition(savedFollow)\n  else\n    followIcon:setPosition({x = 620, y = 220})\n  end\n\n  local savedAttack = storage.botIconPositions.iconFollowAttackScript\n  if savedAttack then\n    followAttackIcon:setPosition(savedAttack)\n  else\n    followAttackIcon:setPosition({x = 620, y = 265})\n  end\nend)\n\n-- Atualização visual contínua nos ícones flutuantes\nmacro(200, function()\n  -- Atualiza o ícone do Follow\n  if storage[followName].followOn then\n    followIcon.text:setColoredText({\n      \"Follow\\n\", \"white\",\n      \"ON\", \"green\"\n    })\n    if not followChange.isOn() then followChange.setOn(true) end\n  else\n    followIcon.text:setColoredText({\n      \"Follow\\n\", \"white\",\n      \"OFF\", \"red\"\n    })\n    if followChange.isOn() then followChange.setOn(false) end\n  end\n\n  -- Atualiza o ícone do Follow Attack\n  if storage[followName].followAttackOn then\n    followAttackIcon.text:setColoredText({\n      \"Follow Atk\\n\", \"white\",\n      \"ON\", \"green\"\n    })\n    if not followAttackMacro.isOn() then followAttackMacro.setOn(true) end\n  else\n    followAttackIcon.text:setColoredText({\n      \"Follow Atk\\n\", \"white\",\n      \"OFF\", \"red\"\n    })\n    if followAttackMacro.isOn() then followAttackMacro.setOn(false) end\n  end\nend)\n\naddSeparator()\n\n------------------------------------------------------------------\n\n\n-- ======================================================\n-- ANTI-STUCK CAVEBOT + AUTO KAI (18 SEGUNDOS)\n-- ======================================================\n\nstorage.autoAntiStuckEnabled = storage.autoAntiStuckEnabled or false\nstorage.botIconPositions = storage.botIconPositions or {}\n\n-- Configurações do Anti-Stuck\nlocal tempoLimite = 18 -- Tempo em segundos para detectar o travamento (Ajustado para 18s)\nlocal ultimaPosicao = nil\nlocal tempoParado = now\n\n-- ------------------------------------------------------\n-- ÍCONE FLUTUANTE ARRASTÁVEL\n-- ------------------------------------------------------\nlocal antiStuckIcon = addIcon(\"iconAntiStuck\", {\n  text = \"Anti-Stuck\",\n  switchable = false,\n  moveable = true\n}, function()\n  storage.autoAntiStuckEnabled = not storage.autoAntiStuckEnabled\n  tempoParado = now -- Reseta o tempo ao ligar/desligar\nend)\n\nantiStuckIcon:setSize({width = 90, height = 40})\nantiStuckIcon.text:setFont(\"verdana-11px-rounded\")\nantiStuckIcon:setOpacity(1.0)\n\n-- Salvar Posição do Ícone (Ctrl + Arrastar com Mouse)\nantiStuckIcon.onMouseRelease = function(widget, mousePos, button)\n  if modules.corelib.g_keyboard.isCtrlPressed() then\n    storage.botIconPositions.iconAntiStuck = {\n      x = widget:getX(),\n      y = widget:getY()\n    }\n  end\n  return true\nend\n\n-- Restaura/Define Posição do Ícone na Tela\nschedule(10, function()\n  if storage.botIconPositions.iconAntiStuck then\n    antiStuckIcon:setPosition(storage.botIconPositions.iconAntiStuck)\n  else\n    antiStuckIcon:setPosition({x = 120, y = 310})\n  end\nend)\n\n-- Atualiza Texto e Cores do Ícone (ON/OFF)\nmacro(200, function()\n  if storage.autoAntiStuckEnabled then\n    antiStuckIcon.text:setColoredText({\"Anti-Stuck\\n\", \"white\", \"ON\", \"green\"})\n  else\n    antiStuckIcon.text:setColoredText({\"Anti-Stuck\\n\", \"white\", \"OFF\", \"red\"})\n  end\nend)\n\n-- ------------------------------------------------------\n-- LÓGICA DA MACRO ANTI-STUCK + KAI\n-- ------------------------------------------------------\nmacro(500, function()\n  -- Não executa se o ícone estiver desligado (OFF)\n  if not storage.autoAntiStuckEnabled then\n    tempoParado = now\n    return\n  end\n\n  -- Verifica se o CaveBot está ativo no client\n  local caveBotAtivo = false\n  if storage.CaveBot and storage.CaveBot.enabled then\n    caveBotAtivo = storage.CaveBot.enabled\n  elseif CaveBot and CaveBot.isActive then\n    caveBotAtivo = CaveBot.isActive()\n  else\n    caveBotAtivo = true \n  end\n\n  if not caveBotAtivo then\n    tempoParado = now\n    return\n  end\n\n  local posAtual = pos()\n  if not posAtual then return end\n\n  -- Verifica se mudou de posição ou de andar\n  if not ultimaPosicao or ultimaPosicao.x ~= posAtual.x or ultimaPosicao.y ~= posAtual.y or ultimaPosicao.z ~= posAtual.z then\n    ultimaPosicao = posAtual\n    tempoParado = now\n  else\n    -- Se continuou na mesma posição, calcula se passou dos 18 segundos\n    if now - tempoParado >= (tempoLimite * 1000) then\n      -- 1. Solta a habilidade Kai para destravar alvos/stuns\n      say(\"kai\")\n\n      -- 2. Força o passo para uma direção aleatória (0=Norte, 1=Leste, 2=Sul, 3=Oeste)\n      local direcaoAleatoria = math.random(0, 3)\n      walk(direcaoAleatoria)\n      \n      warn(\"CaveBot travado! Usando 'kai' e forçando movimento após 18s.\")\n      \n      tempoParado = now\n    end\n  end\nend)\n\n\n----------------------------------------------------\n",
+  "summonName": "Kugutsu",
+  "timesense": {
+    "t": 0
+  },
+  "medicine2": "50",
+  "healing6": {
+    "max": 79,
+    "title": "HP%",
+    "on": false,
+    "min": 0,
+    "text": ""
+  },
+  "hpitem1": {
+    "max": 90,
+    "title": "HP%",
+    "subType": 0,
+    "item": 266,
+    "min": 51,
+    "on": false
+  },
+  "followLeader": "Yellow Aura",
+  "sensePlayers": [
+    "Jakiew",
+    "NEXUS",
+    "Sasuke Kun",
+    "Susanoo Ootsutsuki"
+  ],
+  "widgetPos": {
+    "pkTimeWidget": {
+      "y": 81,
+      "x": 625
+    },
+    "showText": {
+      "y": 271,
+      "x": 205
+    },
+    "timespellNuibari": {
+      "y": 249,
+      "x": 804
+    }
+  },
+  "foodItems": [
+    {
+      "id": 3582,
+      "count": 1
+    },
+    {
+      "id": 3577,
+      "count": 1
+    }
+  ],
+  "kunaiId": "7382",
+  "FiltroMobs": false,
+  "healing2": {
+    "max": 17,
+    "title": "HP%",
+    "on": true,
+    "min": 0,
+    "text": "Biju mode"
+  },
+  "summonSpell": "Kuchyose Kugutsu Gunrin",
+  "iconPositions": {
+    "cI": {
+      "y": 92,
+      "x": 207
+    },
+    "tI": {
+      "y": 49,
+      "x": 208
+    }
+  },
+  "FiltroPlayers": false,
+  "timeNuibari": {
+    "t": 0
+  },
+  "autoSpell10s": {
+    "spell": "Ninja run"
+  },
+  "Combo1Text": "magia 2",
+  "areaCombo": "Tenseigan Getsurin Ha",
+  "followTarget": "Yellow Aura",
+  "targetPlayerSpells": [
+    {
+      "max": 100,
+      "spell": "",
+      "min": 0
+    }
+  ],
+  "keySenseTarget": ".",
+  "targetpl2": {
+    "max": 40,
+    "title": "HP%",
+    "on": true,
+    "min": 0,
+    "text": "Tenseigan Banshou Kougeki"
+  },
+  "pvpIconEnabled": false,
+  "travelPanelPosGrid": {
+    "y": 243,
+    "x": 368
+  },
+  "outfitBijuu": 302,
+  "Combo3Text": "magia 4",
+  "healing1": {
+    "max": 15,
+    "title": "HP%",
+    "on": false,
+    "min": 0,
+    "text": ""
+  },
+  "cities_alt": [
+    "Asura Hell",
+    "Deva Depths",
+    "Naraka Desert",
+    "Hoshigakure",
+    "Konohagakure"
+  ],
+  "manaitem1": {
+    "max": 90,
+    "title": "MP%",
+    "subType": 0,
+    "item": 268,
+    "min": 51,
+    "on": false
+  },
+  "Sense": "raikage do hs",
+  "jumps": {
+    "1001,916,7": {
+      "jumpTo": "Jump Up",
+      "direction": 2
+    },
+    "1157,726,5": {
+      "jumpTo": "Jump Down",
+      "direction": 2
+    },
+    "1026,924,7": {
+      "jumpTo": "Jump Up",
+      "direction": 0
+    },
+    "953,844,6": {
+      "jumpTo": "jump down",
+      "direction": 2
+    },
+    "1065,926,6": {
+      "jumpTo": "Jump Down",
+      "direction": 0
+    },
+    "1028,924,7": {
+      "jumpTo": "Jump Up",
+      "direction": 0
+    },
+    "1170,1173,7": {
+      "jumpTo": "Jump Up",
+      "direction": 0
+    },
+    "1030,1005,6": {
+      "jumpTo": "Jump Down",
+      "direction": 1
+    },
+    "1174,1173,7": {
+      "jumpTo": "Jump Up",
+      "direction": 1
+    },
+    "1002,916,7": {
+      "jumpTo": "Jump Up",
+      "direction": 2
+    },
+    "1068,926,6": {
+      "jumpTo": "Jump Down",
+      "direction": 0
+    },
+    "1430,488,7": {
+      "jumpTo": "jump up",
+      "direction": 0
+    },
+    "312,1351,4": {
+      "jumpTo": "jump up",
+      "direction": 3
+    },
+    "318,1347,5": {
+      "jumpTo": "jump down",
+      "direction": 2
+    },
+    "1180,745,7": {
+      "jumpTo": "jump up",
+      "direction": 0
+    },
+    "1008,918,6": {
+      "jumpTo": "Jump Down",
+      "direction": 0
+    },
+    "1498,618,7": {
+      "jumpTo": "jump up",
+      "direction": 0
+    },
+    "943,866,5": {
+      "jumpTo": "jump down",
+      "direction": 2
+    },
+    "314,1351,5": {
+      "jumpTo": "jump up",
+      "direction": 3
+    },
+    "1030,1007,6": {
+      "jumpTo": "Jump Down",
+      "direction": 1
+    },
+    "1159,727,6": {
+      "jumpTo": "Jump up",
+      "direction": 0
+    },
+    "1041,926,6": {
+      "jumpTo": "Jump Down",
+      "direction": 3
+    },
+    "1176,1173,6": {
+      "jumpTo": "Jump Up",
+      "direction": 1
+    },
+    "1023,930,7": {
+      "jumpTo": "Jump Up",
+      "direction": 2
+    },
+    "1039,928,7": {
+      "jumpTo": "Jump Up",
+      "direction": 1
+    },
+    "1171,1165,6": {
+      "jumpTo": "Jump Down",
+      "direction": 1
+    },
+    "1006,973,6": {
+      "jumpTo": "Jump Down",
+      "direction": 2
+    },
+    "697,1433,5": {
+      "jumpTo": "jump up",
+      "direction": 3
+    },
+    "1031,932,6": {
+      "jumpTo": "Jump Down",
+      "direction": 0
+    },
+    "944,866,5": {
+      "jumpTo": "jump down",
+      "direction": 2
+    },
+    "1030,930,7": {
+      "jumpTo": "Jump Up",
+      "direction": 2
+    },
+    "1026,922,6": {
+      "jumpTo": "Jump Down",
+      "direction": 2
+    },
+    "1027,922,6": {
+      "jumpTo": "Jump Down",
+      "direction": 2
+    },
+    "1159,729,7": {
+      "jumpTo": "Jump up",
+      "direction": 0
+    },
+    "944,867,6": {
+      "jumpTo": "jump up",
+      "direction": 0
+    },
+    "437,1122,7": {
+      "jumpTo": "jump up",
+      "direction": 0
+    },
+    "316,1348,6": {
+      "jumpTo": "Jump up",
+      "direction": 3
+    },
+    "1158,727,6": {
+      "jumpTo": "Jump up",
+      "direction": 0
+    },
+    "1022,965,7": {
+      "jumpTo": "Jump Up",
+      "direction": 1
+    },
+    "1003,918,6": {
+      "jumpTo": "Jump Down",
+      "direction": 0
+    },
+    "1031,1007,7": {
+      "jumpTo": "Jump up",
+      "direction": 3
+    },
+    "1158,729,7": {
+      "jumpTo": "Jump up",
+      "direction": 0
+    },
+    "1031,930,7": {
+      "jumpTo": "Jump Up",
+      "direction": 2
+    },
+    "1330,368,7": {
+      "jumpTo": "jump up",
+      "direction": 0
+    },
+    "1158,726,5": {
+      "jumpTo": "Jump Down",
+      "direction": 2
+    },
+    "1498,617,6": {
+      "jumpTo": "jump down",
+      "direction": 2
+    },
+    "1031,1008,7": {
+      "jumpTo": "Jump up",
+      "direction": 3
+    },
+    "1064,924,7": {
+      "jumpTo": "Jump Up",
+      "direction": 2
+    },
+    "1009,970,7": {
+      "jumpTo": "Jump Up",
+      "direction": 3
+    },
+    "1009,974,7": {
+      "jumpTo": "Jump Up",
+      "direction": 3
+    },
+    "315,1350,5": {
+      "jumpTo": "Jump Down",
+      "direction": 1
+    },
+    "438,1120,6": {
+      "jumpTo": "jump up",
+      "direction": 3
+    },
+    "316,1349,6": {
+      "jumpTo": "jump up",
+      "direction": 3
+    },
+    "1031,922,6": {
+      "jumpTo": "Jump Down",
+      "direction": 2
+    },
+    "629,921,6": {
+      "jumpTo": "jump down",
+      "direction": 2
+    },
+    "1023,924,7": {
+      "jumpTo": "Jump Up",
+      "direction": 0
+    },
+    "1004,916,7": {
+      "jumpTo": "Jump Up",
+      "direction": 2
+    },
+    "1024,965,6": {
+      "jumpTo": "Jump Down",
+      "direction": 3
+    },
+    "1158,728,6": {
+      "jumpTo": "Jump Down",
+      "direction": 2
+    },
+    "954,845,7": {
+      "jumpTo": "jump up",
+      "direction": 0
+    },
+    "1156,727,6": {
+      "jumpTo": "Jump up",
+      "direction": 0
+    },
+    "1034,924,7": {
+      "jumpTo": "Jump Up",
+      "direction": 0
+    },
+    "629,922,7": {
+      "jumpTo": "jump up",
+      "direction": 0
+    },
+    "1032,922,6": {
+      "jumpTo": "Jump Down",
+      "direction": 2
+    },
+    "317,1348,6": {
+      "jumpTo": "jump up",
+      "direction": 0
+    },
+    "1032,924,7": {
+      "jumpTo": "Jump Up",
+      "direction": 0
+    },
+    "1020,922,6": {
+      "jumpTo": "Jump Down",
+      "direction": 2
+    },
+    "1030,1008,6": {
+      "jumpTo": "Jump Down",
+      "direction": 1
+    },
+    "1171,1171,6": {
+      "jumpTo": "Jump Down",
+      "direction": 2
+    },
+    "1486,607,6": {
+      "jumpTo": "jump down",
+      "direction": 2
+    },
+    "1170,1171,6": {
+      "jumpTo": "Jump Down",
+      "direction": 2
+    },
+    "1009,969,6": {
+      "jumpTo": "Jump Down",
+      "direction": 1
+    },
+    "1169,1173,7": {
+      "jumpTo": "Jump Up",
+      "direction": 0
+    },
+    "1024,922,6": {
+      "jumpTo": "Jump Down",
+      "direction": 2
+    },
+    "701,1435,6": {
+      "jumpTo": "jump up",
+      "direction": 3
+    },
+    "1331,368,6": {
+      "jumpTo": "jump down",
+      "direction": 2
+    },
+    "1016,916,7": {
+      "jumpTo": "Jump Up",
+      "direction": 1
+    },
+    "1030,932,6": {
+      "jumpTo": "Jump Down",
+      "direction": 0
+    },
+    "1028,930,7": {
+      "jumpTo": "Jump Up",
+      "direction": 2
+    },
+    "1024,957,6": {
+      "jumpTo": "Jump Down",
+      "direction": 3
+    },
+    "943,867,6": {
+      "jumpTo": "jump up",
+      "direction": 0
+    },
+    "1156,726,5": {
+      "jumpTo": "Jump Down",
+      "direction": 2
+    },
+    "1157,728,6": {
+      "jumpTo": "Jump Down",
+      "direction": 2
+    },
+    "1031,924,7": {
+      "jumpTo": "Jump Up",
+      "direction": 0
+    },
+    "1331,369,7": {
+      "jumpTo": "jump up",
+      "direction": 0
+    },
+    "1030,922,6": {
+      "jumpTo": "Jump Down",
+      "direction": 2
+    },
+    "1032,932,6": {
+      "jumpTo": "Jump Down",
+      "direction": 0
+    },
+    "1490,606,7": {
+      "jumpTo": "jump up",
+      "direction": 3
+    },
+    "1027,932,6": {
+      "jumpTo": "Jump Down",
+      "direction": 0
+    },
+    "1431,487,6": {
+      "jumpTo": "jump down",
+      "direction": 2
+    },
+    "1018,916,6": {
+      "jumpTo": "Jump Down",
+      "direction": 3
+    },
+    "1268,975,6": {
+      "jumpTo": "jump down",
+      "direction": 2
+    },
+    "1030,924,7": {
+      "jumpTo": "Jump Up",
+      "direction": 0
+    },
+    "1178,1173,5": {
+      "jumpTo": "Jump Down",
+      "direction": 3
+    },
+    "134,1291,5": {
+      "jumpTo": "jump down",
+      "direction": 2
+    },
+    "437,1120,5": {
+      "jumpTo": "jump down",
+      "direction": 1
+    },
+    "1034,956,7": {
+      "jumpTo": "Jump Up",
+      "direction": 3
+    },
+    "1024,955,7": {
+      "jumpTo": "Jump Up",
+      "direction": 2
+    },
+    "1019,924,7": {
+      "jumpTo": "Jump Up",
+      "direction": 0
+    },
+    "savePositions": true
+  },
+  "targetpl1": {
+    "max": 30,
+    "title": "HP%",
+    "on": true,
+    "min": 0,
+    "text": "Tenrin Fuin"
+  },
+  "ingame_hotkeys2": "",
+  "focusStair": true,
+  "manatrainer": {
+    "max": 100,
+    "title": "mana%",
+    "on": false,
+    "min": 94,
+    "text": "Chakra down"
+  },
+  "lastSense": {
+    "last": "Tutu Styller"
+  },
+  "ignoredFunctions": [
+
+  ],
+  "continuousJutsu": "Tenseigan Getsurin Ha",
+  "extras": [
+
+  ],
+  "keyUserStairs": "Space",
+  "FollowPlayerName": "Mizu Azul",
+  "autojumper": "F",
+  "raitonHitsNome": "Uchiha Ryuu Kenjutsu",
+  "Combo5Text": "magia 6",
+  "hpitem2": {
+    "max": 50,
+    "title": "HP%",
+    "subType": 0,
+    "item": 3160,
+    "min": 0,
+    "on": false
+  },
+  "autoChaseEnabled": false,
+  "cities": [
+    "Konohagakure",
+    "Sunagakure",
+    "Amegakure",
+    "Yukigakure",
+    "Kumogakure",
+    "South Florest",
+    "Valley of The End",
+    "Suna Camp",
+    "Vila Takumi",
+    "Monte Myoboku",
+    "South Island",
+    "Hoshigakure",
+    "Biju Island",
+    "GGN",
+    "Kazanjima Island",
+    "Ilhota",
+    "Ilhazinha",
+    "Dark Forest",
+    "Vilarejo",
+    "Benisu Island"
+  ],
+  "healSpell": "Jikukan Ido",
+  "healing5": {
+    "max": 47,
+    "title": "HP%",
+    "on": true,
+    "min": 0,
+    "text": "Tenrei No Utsusu Awa"
+  },
+  "battleTracking": [
+    0,
+    [
+
+    ],
+    [
+
+    ]
+  ],
+  "hasteSpell": "concentrate chakra feet",
+  "timesela": {
+    "t": 12545855,
+    "a": 0
+  },
+  "Combo6Text": "magia 7",
+  "buffer": "Funyu no Jutsu",
+  "healing4": {
+    "max": 67,
+    "title": "HP%",
+    "on": true,
+    "min": 0,
+    "text": "Chakra Defense"
+  },
+  "autoBugMapEnabled": true,
+  "autoHealthPanel1": {
+    "max": 99,
+    "enabled": true,
+    "item": 266,
+    "min": 0,
+    "text": "Big Regeneration"
+  },
+  "autofollow": {
+    "player": "M U D I N H O",
+    "followAttackOn": false
+  },
+  "kaiY": 1902,
+  "ComboText": "magia 1",
+  "alarms": {
+    "privateMsg": [
+
+    ],
+    "customMessage": {
+      "value": ""
+    },
+    "creatureName": {
+      "value": ""
+    },
+    "lowMana": {
+      "value": 20
+    },
+    "creatureDetected": [
+
+    ],
+    "damageTaken": [
+
+    ],
+    "playerAttack": {
+      "enabled": true
+    },
+    "ignoreFriends": [
+
+    ],
+    "defaultMsg": [
+
+    ],
+    "playerDetected": {
+      "enabled": false
+    },
+    "enabled": false,
+    "lowHealth": {
+      "value": 15
+    },
+    "flashClient": [
+
+    ]
+  },
+  "playerList": {
+    "enemyList": [
+      "NEXUS",
+      "Sasuke Kun"
+    ],
+    "outfits": false,
+    "friendList": [
+
+    ],
+    "marks": false,
+    "groupMembers": false
+  },
+  "areaComboEnabled": false,
+  "buff1": "Tenseigan no Tate",
+  "trapJutsu": "Jougan no Fuin",
+  "stairsIds": [
+    {
+      "count": 1,
+      "id": 1666
+    },
+    {
+      "count": 1,
+      "id": 6207
+    },
+    {
+      "count": 1,
+      "id": 1948
+    },
+    {
+      "count": 1,
+      "id": 435
+    },
+    {
+      "count": 1,
+      "id": 7771
+    },
+    {
+      "count": 1,
+      "id": 5542
+    },
+    {
+      "count": 1,
+      "id": 8657
+    },
+    {
+      "count": 1,
+      "id": 6264
+    },
+    {
+      "count": 1,
+      "id": 1646
+    },
+    {
+      "count": 1,
+      "id": 1648
+    },
+    {
+      "count": 1,
+      "id": 1678
+    },
+    {
+      "count": 1,
+      "id": 5291
+    },
+    {
+      "count": 1,
+      "id": 1680
+    },
+    {
+      "count": 1,
+      "id": 6905
+    },
+    {
+      "count": 1,
+      "id": 6262
+    },
+    {
+      "count": 1,
+      "id": 1664
+    },
+    {
+      "count": 1,
+      "id": 13296
+    },
+    {
+      "count": 1,
+      "id": 1067
+    },
+    {
+      "count": 1,
+      "id": 13861
+    },
+    {
+      "count": 1,
+      "id": 11931
+    },
+    {
+      "count": 1,
+      "id": 1949
+    },
+    {
+      "count": 1,
+      "id": 6896
+    },
+    {
+      "count": 1,
+      "id": 6205
+    },
+    {
+      "count": 1,
+      "id": 13926
+    },
+    {
+      "count": 1,
+      "id": 1947
+    },
+    {
+      "count": 1,
+      "id": 12097
+    },
+    {
+      "count": 1,
+      "id": 615
+    },
+    {
+      "count": 1,
+      "id": 1678
+    },
+    {
+      "count": 1,
+      "id": 8367
+    }
+  ]
+}
